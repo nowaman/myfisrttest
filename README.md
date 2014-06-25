@@ -1,4 +1,4 @@
 myfisrttest
 ===========
 
-first test gor git hub
+first test for git hub
