@@ -1,0 +1,6 @@
+#ignore file
+*.[oa]
+*.zip
+*.temp
+# C extensions
+*.so
